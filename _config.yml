@@ -18,7 +18,7 @@ theme:            basic
 website:          http://www.iddleapp.com/
 #
 # 2. URL of this page
-url:              http://iddle.github.io/iddle
+url:              http://iddle.github.io/
 #
 # 3. About your kickstarter project
 project:
@@ -33,7 +33,7 @@ project:
   cover_image:    http://i1381.photobucket.com/albums/ah239/iddleapp/trendingarrow_zps2b76f357.png
   #
   # Use a one-liner to describe your project
-  description:    Iddle allows you to vote thumbs up or thumbs down on trending topics
+  description:    Iddle allows you to vote thumbs up or thumbs down on trending topics.
 #
 # 4. Your Twitter handle
 twitter_handle:   
