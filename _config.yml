@@ -21,7 +21,7 @@ website:        http://www.iddleapp.com/
 url:              http://iddle.github.io/
 #
 # 3. About your kickstarter project
-project: https://itunes.apple.com/us/app/iddle/id942404426?ls=1&mt=8
+project: 
   #
   # Name of the project
   name:           Iddle
