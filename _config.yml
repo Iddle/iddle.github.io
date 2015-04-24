@@ -15,7 +15,7 @@ title:            Iddle
 theme:            basic
 #
 # 1. Your website ( could be same as this page - see below )
-website:        http://www.iddleapp.com/  
+website:        http://iddle.github.io/  
 #
 # 2. URL of this page
 url:              http://iddle.github.io/
@@ -30,7 +30,7 @@ project:
   url:       http://bit.ly/1zAe2sv
   #
   # URL of a cover photo of your project
-  cover_image:    http://i1381.photobucket.com/albums/ah239/iddleapp/trendingarrow_zps2b76f357.png
+  cover_image:    http://i1381.photobucket.com/albums/ah239/iddleapp/appstart_zps6gn12nkz.png
   #
   # Use a one-liner to describe your project
   description:    Iddle allows you to up vote & down vote on trending topics. Users are aware of what is trending & are also aware of what others think about that trending topic.
