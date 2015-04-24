@@ -33,7 +33,7 @@ project:
   cover_image:    http://i1381.photobucket.com/albums/ah239/iddleapp/trendingarrow_zps2b76f357.png
   #
   # Use a one-liner to describe your project
-  description:    Iddle allows you to vote thumbs up or thumbs down on trending topics. Voting is anonymous.
+  description:    Iddle allows you to up vote & down vote on trending topics. Users are aware of what is trending & are also aware of what others think about that trending topic.
 #
 # 4. Your Twitter handle
 twitter_handle: IddleApp  
